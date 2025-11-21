@@ -21,6 +21,8 @@
 
 ![робота](images/result_1.png)
 
+Посилання на проект в Figma https://www.figma.com/design/bzDryDn3XPTbUYQr7FWRWe/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B0-4-9?node-id=19-2&p=f&t=pZIE6NsuDtIX4xGM-0
+
 ## Висновки
 На практиці я зробив:
   - форматувати текст у застосунку Figma
