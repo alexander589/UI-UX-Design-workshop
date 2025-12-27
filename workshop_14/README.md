@@ -97,4 +97,4 @@ Webp 75%
 Webp 75%  
 ![75%](images/text-webp75%.webp)
 
-№№№ Висновок
+### Висновок
