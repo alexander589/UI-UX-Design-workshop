@@ -80,5 +80,21 @@ Squoosh — вебінструмент для оптимізації зобра�
 ### 5. Візуальний аналіз та висновки
 
 Фото  
-Оригінал
+Оригінал  
 ![Початок](images/image.jpg)
+Webp 75%  
+![75%](images/image-webp75%.webp)
+
+Скріншот  
+Оригінал  
+![Початок](images/screenshot.jpg)
+Webp 75%  
+![75%](images/screenshot-webp75%.webp)
+
+Графіка з текстом 
+Оригінал  
+![Початок](images/text.jpg)
+Webp 75%  
+![75%](images/text-webp75%.webp)
+
+№№№ Висновок
