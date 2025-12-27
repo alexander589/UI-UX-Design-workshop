@@ -42,6 +42,25 @@
 
 1. Робота з колірним колесом
    Тип: Analogous
+   ![1](images/image1.png)
+
+   Тип: Monochromatic
+   ![2](images/image2.png)
+
+   Тип: Triad 
+   ![3](images/image3.png)
+
+   Тип: Complementary
+   ![4](images/image4.png)
+
+   Тип: Split Complementary
+   ![5](images/image5.png)
+
+   Тип: Square 
+   ![6](images/image6.png)
+
+   Тип: Custom
+   ![7](images/image7.png)
    
 ## Висновок
 
