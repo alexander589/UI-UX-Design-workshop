@@ -46,7 +46,7 @@
 ![йогурт](images/img2.png)
 ![желе](images/img3.png)
 
-Посилання на проект: https://www.figma.com/design/6SlwcqPwYRleOW7NdKfm3p/Untitled?node-id=0-1&t=wNcIfELTYuewIOue-1
+Посилання на проект: https://www.figma.com/design/6SlwcqPwYRleOW7NdKfm3p/Untitled?t=aaqZAHBZYhfmpTsO-0
 
 ## Висновок
 
